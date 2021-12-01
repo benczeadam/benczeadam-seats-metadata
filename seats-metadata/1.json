@@ -1,0 +1,12 @@
+{
+  "name": "Gold-Wood Seat",
+  "description": "It's a nice and comfy wood chair with golden seat.",
+  "image": "seat-pictures/1.jpg",
+  "attributes": [
+    {
+      "comfort": "9",
+      "metarial": "Wood",
+      "cover": "Golden"
+    }
+  ]
+}

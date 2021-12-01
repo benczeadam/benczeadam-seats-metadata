@@ -1,0 +1,12 @@
+{
+  "name": "Basic-Wood Seat",
+  "description": "It's a basic wood seat.",
+  "image": "seat-pictures/2.jpg",
+  "attributes": [
+    {
+      "comfort": "3",
+      "metarial": "Wood",
+      "cover": "None"
+    }
+  ]
+}
