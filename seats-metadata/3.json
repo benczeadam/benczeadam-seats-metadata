@@ -1,7 +1,7 @@
 {
   "name": "Basic-Iron Seat",
   "description": "It's a basic iron seat.",
-  "image": "seat-pictures/3.jpg",
+  "image": "https://github.com/benczeadam/benczeadam-seats-metadata/blob/main/seats-metadata/seat-pictures/3.jpg",
   "attributes": [
     {
       "comfort": "5",
