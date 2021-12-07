@@ -1,7 +1,7 @@
 {
   "name": "Basic-Wood Seat",
   "description": "It's a basic wood seat.",
-  "image": "https://github.com/benczeadam/benczeadam-seats-metadata/blob/main/seats-metadata/seat-pictures/2.jpg",
+  "image": "https://raw.githubusercontent.com/benczeadam/benczeadam-seats-metadata/main/seats-metadata/seat-pictures/2.jpg",
   "attributes": [
     {
       "comfort": "3",
