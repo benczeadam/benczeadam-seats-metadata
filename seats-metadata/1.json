@@ -3,9 +3,9 @@
   "description": "It's a nice and comfy wood chair with golden seat.",
   "image": "https://raw.githubusercontent.com/benczeadam/benczeadam-seats-metadata/main/seats-metadata/seat-pictures/1.jpg",
   "attributes": 
-    {
-      "comfort": "9",
-      "material": "Wood",
-      "cover": "Golden"
-    }
+  {
+    "comfort": "9",
+    "material": "Wood",
+    "cover": "Golden"
+  }
 }
