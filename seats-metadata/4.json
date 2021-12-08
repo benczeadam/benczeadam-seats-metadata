@@ -2,11 +2,10 @@
   "name": "Basic-Wood-Comfy Seat",
   "description": "It's a very comfy wood seat.",
   "image": "https://raw.githubusercontent.com/benczeadam/benczeadam-seats-metadata/main/seats-metadata/seat-pictures/4.jpg",
-  "attributes": [
-    {
-      "comfort": "10",
-      "material": "Wood",
-      "cover": "Textil"
-    }
-  ]
+  "attributes":
+  {
+    "comfort": "10",
+    "material": "Wood",
+    "cover": "Textil"
+  }
 }
